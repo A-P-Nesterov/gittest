@@ -24,3 +24,7 @@ body {
 .centr-text {
     margin: auto;
 }
+.p {
+    width: 700px;
+    color: #523b3b;
+}
