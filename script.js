@@ -4,3 +4,15 @@ function digitize(n) {
 }
 
 digitize(345678923456789)
+const name = 'Кекс';
+
+function sayMyName () {
+    const otherName = 'Борис';
+  console.log(otherName); // Выведет "Кекс".
+
+
+}
+
+sayMyName();
+
+console.log(name); // Получим ReferenceError.
